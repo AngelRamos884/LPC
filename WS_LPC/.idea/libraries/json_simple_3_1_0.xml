@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="json-simple-3.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Lib/json-simple-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/mysql-connector-java-8.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/org.json-chargebee-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
